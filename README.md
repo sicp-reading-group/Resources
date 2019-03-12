@@ -9,10 +9,16 @@ All the resources (graphics, slides, links, etc) shared during our events can be
 * [SICP Distilled ](http://www.sicpdistilled.com/)
 * [MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)
 
-Motivation
+## Motivation
 * [Why and How to Start Your SICP Trek](https://archive.is/uTOol#selection-839.0-880.0)
 * [Paul Grahm: Roots of LISP](http://www.paulgraham.com/rootsoflisp.html)
 
+
+## Other collections
+* [Blogs shared in SICP Reading Group](/Blogs)
+* [Videos shared in SICP Reading Group](/Videos)
+* [Useful online resources](/Useful Links)
+* [Questions and Answer in SICP Reading Group](/Q&A)
 
 ### Join our reading group
 

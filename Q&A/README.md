@@ -1,6 +1,8 @@
 ## Questions asked in the Group
 * I wanted to know if there are any pitfalls to using other languages, since I wanted to avoid learning a new language. However Raza gave a good explanation above, that SICP takes the FP approach for its contents. 
-A: Okay.
+
+
+Ans: Okay.
 
 so. LISP is not a pure functional proramming language. What makes a programming language "pure" is the ability to write side-effect free functions or writing pure functions. LISP is not a pure functional programming langugae since it allows you to write non-pure functions. 
 
