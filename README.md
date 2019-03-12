@@ -15,10 +15,20 @@ All the resources (graphics, slides, links, etc) shared during our events can be
 
 
 ## Other collections
-* [Blogs shared in SICP Reading Group](/Blogs)
-* [Videos shared in SICP Reading Group](/Videos)
-* [Useful online resources](/Useful Links)
-* [Questions and Answer in SICP Reading Group](/Q&A)
+* [Blogs shared in SICP Reading Group](./Blogs)
+* [Videos shared in SICP Reading Group](./Videos)
+* [Useful online resources](./Useful Links)
+* [Questions and Answer in SICP Reading Group](./Q&A)
+
+
+## Schedule
+* The schedule for upcoming meetups can be found [here](/Schedule)
+
+## Talks/Workshops
+Looking for upcoming Talks/Workshops, want to propose a one?
+
+You can do that in the following [repository](https://github.com/sicp-reading-group/Talks) by raising an Issue.
+
 
 ### Join our reading group
 
